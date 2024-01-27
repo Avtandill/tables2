@@ -1,0 +1,159 @@
+@font-face {
+    font-family: inter;
+    src: url("Fonts/Inter-Regular.ttf");
+}
+body {
+    font-family: "inter";
+}
+
+.title-1 {
+    font-size: 25px;
+    margin-left: 160px;
+}
+
+.none {
+    border: none;
+}
+.no-border {
+    border: none;
+}
+.xyz {
+    height: 70px;
+    border: none;
+}
+.www {
+    border: none;
+}
+.form-labels {
+    border: none;
+    padding-left: 2px;
+}
+.input-bc {
+    background-color: white;
+    border: none;
+    padding-left: 10px;
+    font-weight: 500;
+}
+.input-names {
+    font-weight: 700;
+    border: none;
+    text-align: left;
+}
+.inputs {
+    margin: auto;
+    border: none;
+}
+.input-number {
+    width: 210px;
+    height: 45px;
+    font-weight: 500;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.input-text {
+    width: 593px;
+    height: 45px;
+    font-weight: 500;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.input-date {
+    width: 210px;
+    height: 45px;
+    font-weight: 500;
+    padding-left: 10px;
+    border-radius: 10px;
+}
+.input-button {
+    width: 115px;
+    height: 50px;
+    background-color: #FFD43A;
+    border: 0px;
+    font-weight: 500;
+    border-radius: 10px;
+}
+
+.title-2 {
+    font-size: 25px;
+    margin-left: 160px;
+    margin-top: 85px;
+}
+
+table {
+    margin-left: 141px;
+    height: 399px;
+    width: 1180px;
+    margin: auto;
+}
+table, thead, tr, td, th {
+    border: 1px solid #DADADA;
+    border-collapse: collapse;
+}
+thead {
+    background-color: #F9F9F9;
+    padding: 15px;
+}
+tbody {
+    background-color: #FFFFFF;
+}
+
+.column-1 {
+    width: 72px;
+    padding-top: 21px;
+    padding-bottom: 14px;
+}
+.column-2 {
+    width: 444px;
+    padding-top: 21px;
+    padding-bottom: 14px;
+}
+.column-3 {
+    width: 276px;
+    padding-top: 21px;
+    padding-bottom: 14px;
+}
+.column-4 {
+    width: 251px;
+    padding-top: 21px;
+    padding-bottom: 14px;
+}
+.column-5 {
+    width: 190px;
+    padding-top: 21px;
+    padding-bottom: 14px;
+}
+
+.id {
+    font-weight: 700;
+    padding-left: 32px;
+}
+.text {
+    font-weight: 500;
+    padding-left: 23px;
+}
+.date {
+    font-weight: 500;
+    text-align: center;
+    color: #FF0000;
+}
+.edit {
+    font-weight: 500;
+    text-align: center;
+}
+.edit-2 {
+    font-weight: 500;
+    text-align: center;
+}
+
+.button-1 {
+    background-color: #FFD43A;
+    width: 115px;
+    height: 36px;
+    border: 0px;
+}
+.button-2 {
+    background-color: #FF0000;
+    width: 115px;
+    height: 36px;
+    border: 0px;
+}
